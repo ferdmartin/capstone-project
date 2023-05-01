@@ -18,7 +18,7 @@ def main():
     import openai
 
     # Setup OpenAI API
-    OpenAI_API_KEY = "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"
+    OpenAI_API_KEY = "MyKey"
     openai.api_key = OpenAI_API_KEY
     model_id = 'gpt-3.5-turbo' 
 
