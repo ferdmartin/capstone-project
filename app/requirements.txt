@@ -1,0 +1,10 @@
+scipy==1.7.3
+streamlit
+scikit-learn==1.0.2
+shap
+numpy==1.21.6
+matplotlib==3.5.3
+eli5==0.13.0
+torch
+transformers
+spacy
